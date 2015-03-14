@@ -1,0 +1,1 @@
+JSF (Mojarra), Primefaces, Hibernate, Maven, Spring Security, MySQL e Apache Tomcat
